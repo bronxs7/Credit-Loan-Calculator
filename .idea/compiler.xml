@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="loan-calculator-data" />
+        <module name="loan-calculator-util" />
+        <module name="loan-calculator-view" />
+        <module name="loan-calculator-service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="loan-calculator" target="14" />
+      <module name="loan-calculator-data" target="14" />
+      <module name="loan-calculator-service" target="14" />
+      <module name="loan-calculator-util" target="14" />
+      <module name="loan-calculator-view" target="14" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

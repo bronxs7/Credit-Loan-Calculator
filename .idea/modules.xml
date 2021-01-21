@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/loan-calculator.iml" filepath="$PROJECT_DIR$/loan-calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loan-calculator-data/loan-calculator-data.iml" filepath="$PROJECT_DIR$/loan-calculator-data/loan-calculator-data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loan-calculator-service/loan-calculator-service.iml" filepath="$PROJECT_DIR$/loan-calculator-service/loan-calculator-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loan-calculator-util/loan-calculator-util.iml" filepath="$PROJECT_DIR$/loan-calculator-util/loan-calculator-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loan-calculator-view/loan-calculator-view.iml" filepath="$PROJECT_DIR$/loan-calculator-view/loan-calculator-view.iml" />
+    </modules>
+  </component>
+</project>
