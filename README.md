@@ -1,6 +1,8 @@
 ## Credit Loan Calculator
 Simulator for calculate creadit loan, input total loan value in IDR, down payment in %, number of payment in year and number of annual interest in %.
 
+![Image description](src/images/app.png)
+
 ### Entity of this application :
 - Price
 - Down payment
