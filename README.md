@@ -7,7 +7,7 @@ Simulator for calculate creadit loan, input total loan value in IDR, down paymen
 - Number of payment in year
 - Annual interest
 
-### Solution :
+### Feature and Solution :
 - Generate down payment in IDR
 - Generate number of payments
 - Calculate loan balance
